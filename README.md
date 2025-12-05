@@ -34,7 +34,6 @@ project-name/
 ├── LICENSE
 ├── requirements.txt
 ├── .gitignore
-├── keys/                     # Stored RSA and AES keys
 ├── src/
 │   ├── main.py               # Entry point
 │   ├── app/                  # CLI or web interface
