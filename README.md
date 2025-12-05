@@ -131,5 +131,3 @@ python src/main.py verify test.txt test.txt.sig
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-``````
